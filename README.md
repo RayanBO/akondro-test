@@ -1,2 +1,2 @@
-# akondro-test
-akondro fotsiny
+# akondro-API
+io akondro io mantsy
